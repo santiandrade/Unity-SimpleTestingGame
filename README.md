@@ -38,3 +38,4 @@ Simple testing game where I apply some good code practices like heritance, polym
 - The player, during the game, will have a HUD in which he can see the time remaining, the life he has and the weapon selected.
 
 ## Screenshots
+![Screenshot1](https://github.com/santiandrade/Unity-SimpleTestingGame/blob/master/Screenshots/Gameplay.png?raw=true)
